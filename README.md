@@ -3,6 +3,7 @@
 ## Team Members
 
 -[Marc](https://github.com/mjm29)
+-[Manpreet](https://github.com/Mdoad29)
 ---
 
 ## Lab Instructions
