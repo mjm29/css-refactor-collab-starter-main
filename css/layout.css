@@ -217,10 +217,6 @@ img {
   text-decoration: none;
 }
 
-/* -- .footer-nav a:hover {
-  color: #c9a84c;
-} -- /*
-
 /* this rule does the same thing as .footer-nav a above but with higher specificity */
 .site-footer .footer-nav ul li a:hover {
   color: #c9a84c;
