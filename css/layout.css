@@ -33,7 +33,7 @@ img {
 }
 
 .container--narrow {
-  max-width: 1100px;
+  max-width: 680px;
   margin: 0 auto;
   padding: 0 1.5rem;
 }
@@ -146,7 +146,7 @@ img {
 }
 
 .hero-tagline {
-  color: black;
+  color: gray;
   font-style: italic;
   margin-bottom: 2rem;
 }
@@ -213,16 +213,16 @@ img {
 }
 
 .footer-nav a {
-  color: #9e9890;
+  color: gray;
   text-decoration: none;
 }
 
-.footer-nav a:hover {
+/* -- .footer-nav a:hover {
   color: #c9a84c;
-}
+} -- /*
 
 /* this rule does the same thing as .footer-nav a above but with higher specificity */
-.site-footer .footer-nav ul li a {
-  color: #9e9890;
+.site-footer .footer-nav ul li a:hover {
+  color: #c9a84c;
   text-decoration: none;
 }
