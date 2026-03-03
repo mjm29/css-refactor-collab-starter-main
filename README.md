@@ -5,6 +5,7 @@
 -[Marc](https://github.com/mjm29)
 -[Manpreet](https://github.com/Mdoad29)
 -[Danh](https://github.com/dannwebsite)
+-[Tylor](https://github.com/tylormadden06)
 ---
 
 ## Lab Instructions
