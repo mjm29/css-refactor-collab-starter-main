@@ -50,13 +50,14 @@ a {
   text-decoration: underline;
 }
 
-a :hover
+a:hover
 {
   color: #a07830;
 }
 
-a :focus {
-  outline: #5252f7;
+a:focus {
+  outline: 2px solid #5252f7;
+
 }
 
 /* TODO: Add a :focus style for keyboard accessibility. It should use a
