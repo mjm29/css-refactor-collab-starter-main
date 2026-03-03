@@ -34,7 +34,7 @@
   border-color: #7a1f3d; /* border matches the background */
 }
 
-.btn-primary:hover {
+.btn-primary: hover {
   background-color: #5a1530; /* darker red on hover */
   border-color: #5a1530; /* keep border in sync */
   color: #ffffff; /* keep text white */
@@ -211,7 +211,7 @@
   /* FIXME: this fixed height cuts off content if the text is long or the
      browser font size is larger than expected. Remove height and overflow
      so the element sizes itself naturally. */
-  height: 140px;
+  height: auto;
   overflow: hidden;
 }
 
