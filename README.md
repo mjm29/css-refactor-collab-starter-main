@@ -2,8 +2,7 @@
 
 ## Team Members
 
-- [Autum Darrell](https://github.com/BreezyAutum)
-- [Ashlyn Knox](https://github.com/ashx3s/css-refactor-collab-starter.git)
+-[Marc](https://github.com/mjm29)
 ---
 
 ## Lab Instructions
