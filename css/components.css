@@ -142,19 +142,8 @@
   outline: none;
 }
 
-/* styles email inputs */
-.contact-form input[type="email"]
-
-{
-  width: 100%;
-  padding: 0.625rem 0.875rem;
-  font-family: "Lato", Arial, sans-serif;
-  font-size: 1rem;
-  color: #1e1a17;
-  background-color: #ffffff;
-  border: 1px solid #e8e4dc;
-  border-radius: 4px;
-  outline: none;
+.contact-form input[type = "text"]:focus{
+  border: 3px solid black;
 }
 
 /* FIXME: the two rules above are identical and already covered by the shared
