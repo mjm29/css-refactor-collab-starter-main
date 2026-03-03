@@ -55,6 +55,10 @@ a :hover
   color: #a07830;
 }
 
+a :focus {
+  outline: #5252f7;
+}
+
 /* TODO: Add a :focus style for keyboard accessibility. It should use a
    visible outline. Do not use outline: none. */
 
